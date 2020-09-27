@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an e-commerce site
+- 🌱 I’m currently learning Node.Js
+- 📫 How to reach me: pampa.vandli@gmail.com
 <!--
 **pampavandli12/pampavandli12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
