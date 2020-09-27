@@ -2,7 +2,7 @@
 
 ## I'm a Developer!
 - 🌱 I’m currently working as a Frontend developer 🤠
-- 🔭 I’m currently lerning a <img alt="React" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> and <img alt="Node.js" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Courses!
+- 🔭 I’m currently learning <img alt="React" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> and <img alt="Node.js" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Courses!
 - ⚡ Fun fact: I love playing Cricket 🤣
 
 ### Connect with me:
