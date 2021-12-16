@@ -1,7 +1,7 @@
 ### Hi there, I'm Pampapathi Vandli👋
 
 ## I'm a Developer!
-- 🌱 I’m currently working as a Frontend developer 🤠
+- 🌱 I’m currently working as a Software Engineer 🤠
 - 🔭 I’m currently learning <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 - ⚡ Fun fact: I love playing Cricket 🏏
 
