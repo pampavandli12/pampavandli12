@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="JavaScript" width="26px" src="./assets/js.png" />
+<img align="left" alt="JavaScript" width="26px" src="assets/js.png" />
 <img align="left" alt="Node.js" width="26px" src="./assets/nodejs.jpeg" />
 <img align="left" alt="React" width="26px" src="./assets/react.png" />
 <img align="left" alt="HTML5" width="26px" src="./assets/python.jpeg" />
