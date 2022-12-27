@@ -19,9 +19,9 @@
 <img align="left" alt="Node.js" width="26px" src="./assets/nodejs.jpeg" />
 <img align="left" alt="React" width="26px" src="./assets/react.png" />
 <img align="left" alt="HTML5" width="26px" src="./assets/python.jpeg" />
-<img align="left" alt="HTML5" width="26px" src="./assets/angular.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/pampavandli12/pampavandli12/blob/master/assets/angular.png" />
 <img align="left" alt="HTML5" width="26px" src="./assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="./assets/css.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/pampavandli12/pampavandli12/blob/master/assets/css.png" />
 <img align="left" alt="Sass" width="26px" src="./assets/sass.png" />
 <img align="left" alt="MongoDB" width="26px" src="./assets/mongo.jpeg" />
 <img align="left" alt="Git" width="26px" src="./assets/git.png" />
