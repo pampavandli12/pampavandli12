@@ -1,32 +1,81 @@
-### Hi there, I'm Pampapathi Vandli👋
+# Hi, I'm Pampapathi 👋
 
-## I'm a Developer!
+Senior Software Engineer with 9+ years of experience building scalable web and mobile applications.
 
-- 🌱 I’m currently working as a Software Engineer 🤠
-- 🔭 I’m currently learning <img alt="Python" width="26px" src="./assets/python.jpeg" />
-- ⚡ Fun fact: I love playing Cricket 🏏
+I specialize in JavaScript ecosystems (React, React Native, Node.js) and focus on designing production-grade systems with clean architecture and strong fundamentals.
 
-### Connect with me:
+Currently preparing for Senior-level roles at high-scale product companies.
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-<br />
+## 🚀 What I Build
 
-### Languages and Tools:
+- Subscription-based SaaS systems
+- Production-ready mobile applications
+- Secure authentication & authorization systems
+- Scalable REST APIs
+- Clean frontend architectures
 
-<img align="left" alt="JavaScript" width="26px" src="assets/js.png" />
-<img align="left" alt="Node.js" width="26px" src="./assets/nodejs.jpeg" />
-<img align="left" alt="React" width="26px" src="./assets/react.png" />
-<img align="left" alt="HTML5" width="26px" src="./assets/python.jpeg" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/pampavandli12/pampavandli12/blob/master/assets/angular.png" />
-<img align="left" alt="HTML5" width="26px" src="./assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/pampavandli12/pampavandli12/blob/master/assets/css.png" />
-<img align="left" alt="Sass" width="26px" src="./assets/sass.png" />
-<img align="left" alt="MongoDB" width="26px" src="./assets/mongo.jpeg" />
-<img align="left" alt="Git" width="26px" src="./assets/git.png" />
-<img align="left" alt="GitHub" width="26px" src="./assets/github.png" />
-<img align="left" alt="Terminal" width="26px" src="./assets/terminal.jpeg" />
+---
 
-[linkedin]: https://www.linkedin.com/in/pampapathi-vandli-a88b37112/
-[instagram]: https://www.instagram.com/pampavandli/?hl=en
+## 🛠 Tech Stack
+
+### Frontend
+React.js • Vue.js • React Native • JavaScript • TypeScript
+
+### Backend
+Node.js • Express • Python • Java
+
+### Databases
+PostgreSQL • MongoDB • MySQL
+
+### DevOps
+Docker • GitHub Actions • CI/CD fundamentals
+
+---
+
+## 📌 Featured Engineering Work
+
+### 🔹 Smoke Tracker (React Native + RevenueCat)
+A subscription-based mobile app with:
+- Subscription lifecycle management
+- RevenueCat entitlement handling
+- Premium feature gating
+- Analytics dashboard
+- Modular architecture & clean state management
+
+### 🔹 Subscription SaaS Backend
+- JWT authentication
+- Role-based access control (RBAC)
+- Subscription lifecycle logic
+- Payment gateway integration
+- Scalable service structure
+
+### 🔹 System Design Playground
+- Rate limiter implementation
+- Notification system design
+- Caching strategies
+- API scalability patterns
+
+---
+
+## 🧠 Engineering Principles
+
+- Systems thinking over framework obsession
+- Simplicity scales
+- Performance is a feature
+- Code should be readable, testable, and intentional
+- Strong fundamentals > trendy stacks
+
+---
+
+## 📈 Current Focus
+
+- Deepening system design expertise
+- Building production-grade backend systems
+- Strengthening DSA for senior-level interviews
+- Preparing for high-scale engineering roles
+
+---
+
+⭐ Always building. Always improving.
